@@ -1,0 +1,4 @@
+vad behövs?
+
+- En home-komponent som innehåller själva miniräknare.
+- En Calculator-komponent för är själva mini räknare
